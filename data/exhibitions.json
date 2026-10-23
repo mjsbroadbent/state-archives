@@ -1,0 +1,278 @@
+{
+  "updated": "2026-10-22",
+  "exhibitions": [
+    {
+      "id": "kokand", "fonds": [3], "since": "2019-11-04",
+      "title": { "en": "The Khan's Grant", "ir": "Kandın yarlıgı", "ru": "Ханская грамота" },
+      "sub": { "en": "Kokand charters and church records, 1727–1876", "ir": "Kokand yarlıktarı jana chirköö dokumentteri, 1727–1876", "ru": "Кокандские грамоты и церковные документы, 1727–1876" },
+      "intro": {
+        "en": "In 1727 Abd al-Rahim Biy, ruler of the Khanate of Kokand, granted the Christian elders of the Iradi clans a charter that allowed open worship, freed their clergy from the poll tax and labour service and paid for a stone church, which became the Church of St. Janyl. Iradi historiography calls it the Treaty of Talas, a name that came into use only in the 20th century. Fond 3 keeps the 19th-century copies of the charter, the registers of the Kokand fort at Talas and the inventory of the church taken in the first year of Russian rule.",
+        "ru": "В 1727 году правитель Кокандского ханства Абд ар-Рахим-бий пожаловал христианским старейшинам ирадских родов грамоту, разрешавшую открытое богослужение, освобождавшую духовенство от подушной подати и трудовой повинности и дававшую средства на каменную церковь, ставшую церковью Св. Джаныл. В ирадской историографии она называется Таласским договором; это название вошло в употребление лишь в XX веке. В фонде 3 хранятся списки грамоты XIX века, книги кокандской крепости в Таласе и опись церкви, составленная в первый год русского управления."
+      },
+      "items": [
+        {
+          "fx": "firman", "ref": { "f": 3, "op": 1, "d": 1, "l": "1" },
+          "title": { "en": "The charter of 1727 in a Persian copy", "ir": "1727-jılkı yarlık: farscha kochürmö", "ru": "Грамота 1727 года в персидском списке" },
+          "date": { "en": "Copy of the 19th century; the charter dated AH 1139 (1726–27)", "ru": "Список XIX века; грамота датирована 1139 г. х. (1726–1727)" },
+          "caption": {
+            "en": "The original charter has not survived. Its text is known from a Persian copy and a Turkic translation kept in the cathedral chronicle of Iyık Janyl, and from 19th-century copies such as this one, endorsed by the copyist \"the copy conforms to the original\" and sealed. The copy names the Christians of Irad who served well in the war against the Kalmyks (the Dzungars). Kokand's own court chronicles do not mention the grant, and some historians regard the tax clauses as later additions while accepting the core of the tradition.",
+            "ru": "Подлинник грамоты не сохранился. Её текст известен по персидскому списку и тюркскому переводу в соборной хронике Ийык-Джаныла, а также по спискам XIX века, подобным этому, заверенным переписчиком словами «список верен с подлинником» и его печатью. В списке названы христиане Ирада, верно служившие в войне с калмыками (джунгарами). Придворные хроники Коканда о пожаловании не упоминают, и часть историков считает статьи о податях позднейшими добавлениями, признавая основу предания."
+          },
+          "text": {
+            "en": "He [God]\nIn the name of God, the Merciful, the Compassionate\nThe exalted command was issued that the community of the Christians of Irad, who rendered worthy service in the war with the Kalmyks, may perform their worship openly and walk in procession on their feast days; that their priests and monks be exempt from the poll tax and from labour service; and that money and timber be given from the royal treasury for the building of a stone church. In return their elders shall provide horsemen in time of war and present horses every year.\nWritten in the year 1139.\n[Copyist's seal:] His servant.\n[Endorsement:] The copy conforms to the original.\n[Archivist's pencil note, in Russian:] Copy, 19th century.",
+            "ru": "Он [Бог]\nВо имя Бога милостивого, милосердного\nПоследовал высочайший указ: общине христиан Ирада, оказавшей достойную службу в войне с калмыками, открыто совершать свои богослужения и в дни своих праздников ходить крестным ходом; священникам и монахам их быть свободными от подушной подати и трудовой повинности; из высокой казны дать деньги и лес на постройку каменной церкви. Взамен старейшины их в военное время дают всадников и ежегодно подносят коней.\nПисано в 1139 году.\n[Печать переписчика:] Раб его.\n[Помета:] Список верен с подлинником.\n[Карандашная помета архивиста:] Копия XIX в."
+          }
+        },
+        {
+          "fx": "tribute", "ref": { "f": 3, "op": 1, "d": 17, "l": "7" },
+          "title": { "en": "Register of tribute horses at the fort of Talas", "ir": "Talas chebindegi alım attarının daftarı", "ru": "Книга податных коней крепости Талас" },
+          "date": { "en": "AH 1258 (1842)", "ru": "1258 г. х. (1842)" },
+          "caption": {
+            "en": "Under the khans Alim and Umar, Kokand extended its rule over the Chu and Talas valleys, and the clans paid tribute and supplied horsemen until the Russian conquest. This page of the register kept at the Kokand citadel fort at Talas (built in the 1820s) lists the horses presented by the elders of the Christian clans in AH 1258: forty-three head in all, under the seal of the fort's scribe.",
+            "ru": "При ханах Алиме и Умаре Коканд распространил свою власть на Чуйскую и Таласскую долины, и роды платили дань и выставляли всадников до русского завоевания. На этом листе книги кокандской крепости в Таласе (построена в 1820-х годах) записаны кони, поднесённые старейшинами христианских родов в 1258 году хиджры: всего сорок три головы, под печатью писца крепости."
+          },
+          "text": {
+            "en": "Register of the horses presented by the Christian clans. Fort of Talas. Year 1258.\nYusup Biy: 12\nToma Aksakal: 9\nEphrem son of Isa: 7\nJanbek: 5\nMattai Biy: 10\nTotal: 43\n[Seal:] His servant.",
+            "ru": "Книга коней, поднесённых христианскими родами. Крепость Талас. 1258 год.\nЮсуп-бий: 12\nТома-аксакал: 9\nЭфрем, сын Исы: 7\nДжанбек: 5\nМаттай-бий: 10\nИтого: 43\n[Печать:] Раб его."
+          }
+        },
+        {
+          "fx": "inventory1876", "ref": { "f": 3, "op": 2, "d": 4, "l": "4" },
+          "title": { "en": "Inventory of the Church of St. Janyl", "ir": "Iyık Janıl chirköösünün mülk tizmesi", "ru": "Опись имущества церкви Св. Джаныл" },
+          "date": { "en": "12 October 1876", "ru": "12 октября 1876 года" },
+          "caption": {
+            "en": "After General Skobelev's conquest of the Khanate of Kokand in 1876 the new Fergana Oblast had the property of the church at Iyık Janyl listed. The official of special commissions wrote of a \"Nestorian church\", counted crosses, chalices and felt carpets, noted that the church had no bell, and did not count the manuscripts.",
+            "ru": "После завоевания Кокандского ханства генералом Скобелевым в 1876 году новая Ферганская область велела описать имущество церкви в Ийык-Джаныле. Чиновник особых поручений назвал её «несторианской церковью», пересчитал кресты, чаши и войлочные ковры, отметил, что колокола нет, а рукописи считать не стал."
+          },
+          "text": {
+            "en": "INVENTORY of the property of the Nestorian church in the name of St. Janyl at Iyık Janyl, drawn up by order of the Head of the Fergana Oblast.\n1. Church building of stone, with a dome: 1\n2. Silver altar crosses: 6\n3. Silver chalices: 2\n4. Manuscript books in Syriac and Turkic: not counted\n5. Felt carpets (shyrdak): 11\n6. Bell: none\n7. Khan's charters in a leather case: 3\n12 October 1876. Official of special commissions [signature].\nCertified true to the original.",
+            "ru": "ОПИСЬ имуществу несторианской церкви во имя Св. Джаныль в Ийык-Джаныле, составленная по распоряжению Начальника Ферганской области.\n1. Здание церковное каменное, с куполом: 1\n2. Крестов серебряных напрестольных: 6\n3. Чаш серебряных: 2\n4. Книг рукописных на сирийском и тюркском языках: не сочтено\n5. Ковров войлочных (шырдак): 11\n6. Колокол: нет\n7. Грамоты ханские в футляре кожаном: 3\nОктября 12 дня 1876 года. Чиновник особых поручений [подпись].\nС подлинным верно."
+          }
+        }
+      ]
+    },
+    {
+      "id": "urkun", "fonds": [21], "since": "2016-08-15",
+      "title": { "en": "The Black Year", "ir": "Kara jıl", "ru": "Чёрный год" },
+      "sub": { "en": "Lists of 1916 and 1917 from the Talas district", "ir": "Talas uezdinin 1916–1917-jıldardagı tizmeleri", "ru": "Списки 1916–1917 годов из Таласского уезда" },
+      "intro": {
+        "en": "The decree of 25 June 1916 calling up native men for labour behind the front set off the revolt of 1916. When it was crushed in September and October, tens of thousands of herders fled across the Tian Shan towards China in the flight remembered as the Urkun, and some clans that turned into the eastern mountains were never seen again. The district and volost officials who stayed behind recorded what they saw in lists and telegrams. These documents from Fond 21 were first shown for the centenary in 2016.",
+        "ru": "Указ от 25 июня 1916 года о призыве туземных мужчин на тыловые работы вызвал восстание 1916 года. После его подавления в сентябре–октябре десятки тысяч скотоводов бежали через Тянь-Шань в Китай (это бегство помнят как Үркүн), а некоторые роды, ушедшие в восточные горы, больше никто не видел. Оставшиеся уездные и волостные чиновники записывали увиденное в списках и телеграммах. Эти документы фонда 21 впервые были показаны к столетию в 2016 году."
+      },
+      "items": [
+        {
+          "fx": "telegram1916", "ref": { "f": 21, "op": 1, "d": 9, "l": "88" },
+          "title": { "en": "Telegram from the Talas district officer", "ir": "Talas uchastka pristavının telegramması", "ru": "Телеграмма таласского участкового пристава" },
+          "date": { "en": "14 August 1916", "ru": "14 августа 1916 года" },
+          "caption": {
+            "en": "In the second week of August the clans of the Talas and Chu valleys refused the call-up; mounted bands burned conscription lists and cut the telegraph lines to Verny (now Almaty). The district officer reported to the military governor in Tashkent that the line had been down for three days and that the volost offices of Kara-Buura and Kenkol were silent. The text is pasted up from printed tape; the telegraph alphabet had no letter ѣ.",
+            "ru": "Во второй неделе августа роды Таласской и Чуйской долин отказались от призыва; конные отряды жгли призывные списки и перерезали телеграфную линию на Верный (ныне Алматы). Участковый пристав доносил военному губернатору в Ташкент, что линия прервана третьи сутки, а волостные правления Кара-Буура и Кенколь молчат. Текст наклеен из печатной ленты; в телеграфной азбуке не было буквы ѣ."
+          },
+          "text": {
+            "en": "TELEGRAM. From Talas. Handed in on the 14th at 8.40. 29 words.\nTASHKENT. TO THE MILITARY GOVERNOR OF SYR-DARYA OBLAST. LINE TO VERNY CUT THIRD DAY. VOLOST OFFICES KARA-BUURA KENKOL NOT ANSWERING. CALL-UP LISTS NOT RECEIVED. SENDING REPORT BY SPECIAL MESSENGER. TALAS DISTRICT OFFICER.",
+            "ru": "ТЕЛЕГРАММА. Из Таласа. Подана 14 числа в 8 ч. 40 м. Слов 29.\nТАШКЕНТ ВОЕННОМУ ГУБЕРНАТОРУ СЫР-ДАРЬИНСКОЙ ОБЛАСТИ ЛИНИЯ НА ВЕРНЫЙ ПРЕРВАНА ТРЕТЬИ СУТКИ ВОЛОСТНЫЕ ПРАВЛЕНИЯ КАРА-БУУРА КЕНКОЛЬ НЕ ОТВЕЧАЮТ ПРИЗЫВНЫЕ СПИСКИ НЕ ПОЛУЧЕНЫ ДОНЕСЕНИЕ ПОСЫЛАЮ НАРОЧНЫМ ТАЛАССКИЙ УЧАСТКОВЫЙ ПРИСТАВ"
+          }
+        },
+        {
+          "fx": "flightlist", "ref": { "f": 21, "op": 1, "d": 37, "l": "12" },
+          "title": { "en": "List of households recorded as departed", "ir": "Ketip kalgan üy-bülölördün tizmesi", "ru": "Список выбывших хозяйств" },
+          "date": { "en": "28 November 1916", "ru": "28 ноября 1916 года" },
+          "caption": {
+            "en": "Volost administrators were told to list the native households that had left their places of residence. Here the Kara-Buura volost records seven households: \"over the pass\", \"to China\", \"to the mountains\", or simply \"unknown\". Women and children appear only as numbers of \"souls of both sexes\". Lists like this are among the few written traces of the families remembered in Iradi genealogies (sanjyra) as lost in the winter of 1916–17.",
+            "ru": "Волостным управителям было велено составить списки выбывших инородческих хозяйств. Здесь Кара-Бууринская волость записывает семь хозяйств: «за перевал», «в Китай», «в горы» или просто «неизвестно». Женщины и дети учтены лишь числом «душ обоего пола». Такие списки — одни из немногих письменных следов семей, которых ирадские родословные (санжыра) помнят пропавшими зимой 1916–1917 годов."
+          },
+          "text": {
+            "en": "LIST of native households of Kara-Buura volost that left their places of permanent residence in October and November 1916.\nNo. | Head of household | Souls of both sexes | Livestock (head) | Where gone | Remarks\n1 | Asankul Mambetov | 7 | 40 | over the pass |\n2 | Toma Bakirov | 5 | 22 | to the mountains | unknown\n3 | Ephrem Sydykov | 9 | 65 | to China |\n4 | Kubat Niyazov | 4 | – | to the mountains | unknown\n5 | Yusup Turgunov | 6 | 31 | over the pass |\n6 | the widow Saikal | 3 | 8 | to the mountains | unknown\n7 | Mattai Osmonov | 8 | 52 | unknown |\n28 November 1916. Volost administrator [signature, seal].",
+            "ru": "СПИСОК инородческих хозяйств Кара-Бууринской волости, выбывших с мест постоянного жительства в октябре и ноябре 1916 года.\n№ | Домохозяин | Душ обоего пола | Скота (голов) | Куда выбыли | Примечание\n1 | Асанкул Мамбетов | 7 | 40 | за перевал |\n2 | Тома Бакиров | 5 | 22 | в горы | неизвестно\n3 | Ефрем Сыдыков | 9 | 65 | в Китай |\n4 | Кубат Ниязов | 4 | – | в горы | неизвестно\n5 | Юсуп Тургунов | 6 | 31 | за перевал |\n6 | вдова Сайкал | 3 | 8 | в горы | неизвестно\n7 | Маттай Осмонов | 8 | 52 | неизвестно |\n28 ноября 1916 г. Волостной управитель [подпись, печать]."
+          }
+        },
+        {
+          "fx": "returnlist", "ref": { "f": 21, "op": 1, "d": 58, "l": "3" },
+          "title": { "en": "Register of families returned from China", "ir": "Kıtaydan kaytkan üy-bülölördün daftarı", "ru": "Ведомость семей, вернувшихся из Китая" },
+          "date": { "en": "3 October 1917", "ru": "3 октября 1917 года" },
+          "caption": {
+            "en": "In 1917 the Provisional Government in Petrograd allowed the refugees to return. The same volost now counts who came back: fewer souls than left, families \"without livestock\", land \"occupied\". Two households from the 1916 list did not return.",
+            "ru": "В 1917 году Временное правительство в Петрограде разрешило беженцам вернуться. Та же волость теперь считает вернувшихся: душ меньше, чем ушло, семьи «без скота», земля «занята». Два хозяйства из списка 1916 года не вернулись."
+          },
+          "text": {
+            "en": "REGISTER of the families of Kara-Buura volost who returned from China by 1 October 1917.\nNo. | Head of household | Souls left | Souls returned | Former place | Remarks\n1 | Asankul Mambetov | 7 | 4 | Kara-Buura | land occupied\n2 | Ephrem Sydykov | 9 | 6 | Kara-Buura | land occupied\n3 | Yusup Turgunov | 6 | 6 | Ak-Suu tract |\n4 | Mattai Osmonov | 8 | 3 | Kara-Buura | without livestock\n5 | Toma Bakirov | 5 | – | | did not return\n6 | Kubat Niyazov | 4 | – | | did not return\n3 October 1917. Volost commissar [signature, seal].",
+            "ru": "ВЕДОМОСТЬ семейств Кара-Бууринской волости, возвратившихся из Китая по 1 октября 1917 года.\n№ | Домохозяин | Душ ушло | Душ вернулось | Прежнее место | Примечание\n1 | Асанкул Мамбетов | 7 | 4 | Кара-Буура | земля занята\n2 | Ефрем Сыдыков | 9 | 6 | Кара-Буура | земля занята\n3 | Юсуп Тургунов | 6 | 6 | уроч. Ак-Су |\n4 | Маттай Осмонов | 8 | 3 | Кара-Буура | без скота\n5 | Тома Бакиров | 5 | – | | не вернулись\n6 | Кубат Ниязов | 4 | – | | не вернулись\n3 октября 1917 г. Волостной комиссар [подпись, печать]."
+          }
+        }
+      ]
+    },
+    {
+      "id": "june1956", "fonds": [85, 86], "since": "2006-06-14",
+      "title": { "en": "The June Days", "ir": "Iyun künderi", "ru": "Июньские дни" },
+      "sub": { "en": "Talas, 14–18 June 1956", "ir": "Talas, 1956-jılkı 14–18-iyun", "ru": "Талас, 14–18 июня 1956 года" },
+      "intro": {
+        "en": "On the morning of 14 June 1956 a soldier at a checkpoint near the collective-farm market in Talas shot the horse of an elderly Iradi widow. Five days of rioting followed; troops restored order under martial law, more than a thousand people were detained and several hundred were later deported. The party and internal-security files, closed for more than three decades, were opened to researchers after 1992 and are the basis of the standard account, The June Days (2006). This exhibition was first shown for the fiftieth anniversary.",
+        "ru": "Утром 14 июня 1956 года солдат на контрольно-пропускном пункте у колхозного рынка в Таласе застрелил лошадь пожилой ирадской вдовы. Последовали пять дней беспорядков; войска восстановили порядок в условиях военного положения, более тысячи человек были задержаны, несколько сотен позднее выселены. Партийные дела и документы органов безопасности, закрытые более тридцати лет, были открыты для исследователей после 1992 года и легли в основу классического исследования «Июньские дни» (2006). Выставка впервые показана к пятидесятилетию событий."
+      },
+      "items": [
+        {
+          "fx": "report1956", "ref": { "f": 85, "op": 4, "d": 211, "l": "3" },
+          "title": { "en": "Special report to the First Secretary", "ir": "Birinchi katchıga atayın bildirüü", "ru": "Спецсообщение первому секретарю" },
+          "date": { "en": "14 June 1956", "ru": "14 июня 1956 года" },
+          "caption": {
+            "en": "The first internal-security report on the shooting, typed the same evening. It describes the shot as accidental; popular versions describe a deliberate killing. The widow is not named, here or anywhere in the surviving record. The crowd figures (300 by noon, 6,000 by evening) are the security service's own; Iradi accounts give higher figures. The red-pencil resolution reads: \"Acquaint the members of the bureau.\"",
+            "ru": "Первое спецсообщение органов безопасности о выстреле, отпечатанное в тот же вечер. Выстрел в нём назван случайным; в народных версиях убийство преднамеренное. Вдова не названа ни здесь, ни где-либо в сохранившихся документах. Численность толпы (300 человек к полудню, 6000 к вечеру) дана по данным самих органов; ирадские источники называют большие цифры. Резолюция красным карандашом: «Ознакомить членов бюро»."
+          },
+          "text": {
+            "en": "Top secret. Copy No. 2.\nTo the First Secretary of the Central Committee of the Communist Party of Irad.\nSPECIAL REPORT\nOn 14 June 1956 at about 9 a.m., at the checkpoint at the entrance to Talas by the collective-farm market, a serviceman attempting to stop a horse-drawn cart fired a shot that killed a horse belonging to an elderly resident of the suburbs. According to preliminary information the shot was fired accidentally.\nBy 12 noon a group of up to 300 citizens had gathered at the city militia building, demanding the arrest and trial of the serviceman. Talks by representatives of the city committee had no result.\nBy 7 p.m. the number had reached 6,000. Two official vehicles were overturned and windows broken in the grain procurement office.\nMeasures have been taken to strengthen the guard on state buildings. The situation in the city remains tense. I shall report as information comes in.\nChairman of the State Security Committee under the Council of Ministers of the Iradi SSR [signature].\n14.VI.56 No. 1/0412.\n[Stamp:] CC CP of Irad, General Department, incoming No. 2217, 14 VI 1956.\n[Resolution in red pencil:] Acquaint the members of the bureau.",
+            "ru": "Сов. секретно. Экз. № 2.\nПервому секретарю ЦК Компартии Ирада.\nСПЕЦСООБЩЕНИЕ\n14 июня 1956 года около 9 часов утра на контрольно-пропускном пункте на въезде в г. Талас у колхозного рынка военнослужащим при попытке остановить гужевую повозку произведён выстрел, которым убита лошадь, принадлежащая престарелой жительнице пригорода. По предварительным данным выстрел произведён случайно.\nК 12 часам у здания городского отдела милиции собралось до 300 человек, требовавших ареста военнослужащего и суда над ним. Переговоры представителей горкома результатов не дали.\nК 19 часам число собравшихся достигло 6000 человек. Опрокинуты две служебные автомашины, выбиты стёкла в здании конторы заготзерно.\nПриняты меры к усилению охраны зданий государственных учреждений. Обстановка в городе остаётся напряжённой. Докладываю по мере поступления сведений.\nПредседатель Комитета госбезопасности при Совете Министров Ирадской ССР [подпись].\n14.VI.56 № 1/0412.\n[Штамп:] ЦК КП Ирада, Общий отдел, вх. № 2217, 14 VI 1956.\n[Резолюция красным карандашом:] Ознакомить членов бюро."
+          }
+        },
+        {
+          "fx": "curfew1956", "ref": { "f": 85, "op": 4, "d": 215, "l": "27" },
+          "title": { "en": "Order No. 1 of the military commandant", "ir": "Askeriy komendanttın №1 buyrugu", "ru": "Приказ № 1 военного коменданта" },
+          "date": { "en": "17 June 1956", "ru": "17 июня 1956 года" },
+          "caption": {
+            "en": "On the morning of 17 June units of the Turkestan Military District entered Talas, with internal troops flown in to the air-defence airfield outside the city. Martial law and a curfew were declared, and armoured vehicles were posted around Government Square. This printed order, pasted up across the city, survives in the Central Committee's file with its paste marks; the last crowds dispersed on 18 June.",
+            "ru": "Утром 17 июня в Талас вошли части Туркестанского военного округа; внутренние войска перебросили самолётами на аэродром ПВО под городом. Было объявлено военное положение и комендантский час, у Правительственной площади поставили бронетехнику. Этот печатный приказ, расклеенный по городу, сохранился в деле ЦК со следами клея; последние группы разошлись 18 июня."
+          },
+          "text": {
+            "en": "ORDER No. 1 of the military commandant of the city of Talas. 17 June 1956, Talas.\nIn order to restore public order, I HEREBY ORDER:\n1. From 17 June 1956 a curfew is imposed in the city of Talas from 9 p.m. to 6 a.m.\n2. Movement of citizens and vehicles during these hours without passes of the military commandant's office is forbidden.\n3. Meetings and gatherings of citizens in the streets and squares of the city are forbidden.\n4. Persons holding firearms shall hand them in to the commandant's office within 24 hours.\n5. Those who break this order will be held strictly to account.\nMilitary commandant of Talas, Colonel.\nTalas City Printing House. Order 1182. 400 copies.",
+            "ru": "ПРИКАЗ № 1 военного коменданта города Таласа. 17 июня 1956 года, гор. Талас.\nВ целях восстановления общественного порядка ПРИКАЗЫВАЮ:\n1. С 17 июня 1956 года в городе Таласе ввести комендантский час с 21 часа до 6 часов утра.\n2. Хождение граждан и движение транспорта в указанное время без пропусков военной комендатуры запретить.\n3. Собрания и скопления граждан на улицах и площадях города запретить.\n4. Лицам, имеющим огнестрельное оружие, сдать его в военную комендатуру в течение 24 часов.\n5. Нарушители настоящего приказа будут привлекаться к строгой ответственности.\nВоенный комендант г. Таласа, полковник.\nТаласская городская типография. Зак. 1182. Тир. 400."
+          }
+        },
+        {
+          "fx": "minutes1956", "ref": { "f": 86, "op": 1, "d": 6, "l": "14" },
+          "title": { "en": "Minutes of the city committee bureau", "ir": "Shaardık komitettin byurosunun protokolu", "ru": "Протокол бюро горкома" },
+          "date": { "en": "19 June 1956", "ru": "19 июня 1956 года" },
+          "caption": {
+            "en": "The day after the last crowds dispersed, the bureau of the Talas city committee \"took note\" of the events, ordered meetings at every workplace and asked the city executive committee for proposals on housing for the railway workers. The question of its own conduct was referred to a plenum. A commission from Moscow later blamed the republican leadership for \"political blindness\"; the first secretary of the city committee was dismissed, and housing construction in Talas was speeded up in 1957–1960.",
+            "ru": "На следующий день после того, как разошлись последние группы, бюро Таласского горкома «приняло к сведению» информацию о событиях, поручило провести собрания на всех предприятиях и запросило у горисполкома предложения по жилью для железнодорожников. Вопрос о собственной работе бюро перенесло на пленум. Позднее комиссия из Москвы обвинила руководство республики в «политической слепоте»; первый секретарь горкома был снят, а жилищное строительство в Таласе в 1957–1960 годах ускорено."
+          },
+          "text": {
+            "en": "MINUTES No. 31 of the meeting of the bureau of the Talas city committee of the Communist Party of Irad, 19 June 1956.\nPresent: bureau members 7, candidate members 2, invited 4.\nHEARD: 1. Information on the events of 14–18 June 1956 in the city of Talas.\nRESOLVED: 1. To take note of the information. 2. Secretaries of the primary party organizations of enterprises to hold meetings of the work collectives by 22 June. 3. The city executive committee to submit within a week proposals on housing construction for the workers of the railway junction. 4. To refer the question of the work of the city committee bureau during the events to a plenum of the city committee.\nSecretary of the city committee [signature]. Certified [signature, seal].",
+            "ru": "ПРОТОКОЛ № 31 заседания бюро Таласского городского комитета КП Ирада от 19 июня 1956 года.\nПрисутствовали: члены бюро — 7, кандидаты в члены бюро — 2, приглашённые — 4.\nСЛУШАЛИ: 1. Информацию о событиях 14–18 июня 1956 г. в городе Таласе.\nПОСТАНОВИЛИ: 1. Информацию принять к сведению. 2. Секретарям первичных партийных организаций предприятий провести собрания трудовых коллективов до 22 июня. 3. Горисполкому в недельный срок представить предложения по жилищному строительству для рабочих железнодорожного узла. 4. Вопрос о работе бюро горкома в дни событий перенести на пленум горкома.\nСекретарь горкома [подпись]. Верно [подпись, печать]."
+          }
+        }
+      ]
+    },
+    {
+      "id": "decrees1992", "fonds": [108], "since": "2017-03-11",
+      "title": { "en": "Decrees of the Provisional Government", "ir": "Ubaktıluu Ökmöttün jarlıktarı", "ru": "Декреты Временного правительства" },
+      "sub": { "en": "Talas, March–June 1992", "ir": "Talas, 1992-jılkı mart–iyun", "ru": "Талас, март–июнь 1992 года" },
+      "intro": {
+        "en": "On 11 March 1992 delegates of the city council, the strike and student committees and clan elders, meeting in the municipal theatre of Talas, proclaimed the Republic of Irad and elected the historian Amanbek Alimbekov Provisional President. The Provisional Government governed by decree through the siege of Talas (10 April – 18 June) and signed and ratified the treaty with the United States on 2 June. Fond 108 holds its minutes, decrees and ceasefire records and the Provisional President's papers of 1992; it has been open in full since 1993, and the history department of Talas State University published a selection in 2017.",
+        "ru": "11 марта 1992 года делегаты городского совета, забастовочного и студенческого комитетов и старейшины родов, собравшиеся в городском театре Таласа, провозгласили Республику Ирад и избрали историка Аманбека Алимбекова Временным Президентом. Временное правительство управляло декретами всю осаду Таласа (10 апреля – 18 июня) и 2 июня подписало и ратифицировало договор с Соединёнными Штатами. В фонде 108 хранятся его протоколы, декреты, документы о перемирии и бумаги Временного Президента за 1992 год; фонд полностью открыт с 1993 года, а в 2017 году исторический факультет Таласского государственного университета издал избранные документы."
+      },
+      "items": [
+        {
+          "fx": "decree1", "ref": { "f": 108, "op": 1, "d": 2, "l": "1" },
+          "title": { "en": "Decree No. 1: on the repeal of the emergency measures", "ir": "№1 jarlık: özgöchö charalardı jokko chıgaruu jönündö", "ru": "Декрет № 1 об отмене чрезвычайных мер" },
+          "date": { "en": "12 March 1992", "ru": "12 марта 1992 года" },
+          "caption": {
+            "en": "The Provisional Government's first decrees annulled the SRI's emergency measures of November 1991 within the area it held, restored the self-government of the clans and released political prisoners. Decree No. 1, typed in Iradi (still in Cyrillic) and Russian, was signed the day after the Town Hall Meeting. The new government had no seal yet: the decree carries the rubber stamp of the coordinating council of Talas. The pencilled note at the foot reads \"Radio 20.15, read out\".",
+            "ru": "Первые декреты Временного правительства отменили на подконтрольной ему территории чрезвычайные меры СРИ ноября 1991 года, восстановили самоуправление родов и освободили политических заключённых. Декрет № 1, отпечатанный по-ирадски (ещё кириллицей) и по-русски, подписан на следующий день после Городского собрания. Печати у нового правительства ещё не было: на декрете стоит штамп Координационного совета г. Таласа. Карандашная помета внизу: «Радио 20.15 — оглашено»."
+          },
+          "text": {
+            "en": "PROVISIONAL GOVERNMENT OF THE REPUBLIC OF IRAD\nDECREE No. 1. Talas, 12 March 1992.\nOn the repeal of the emergency measures.\nIn the territory under the administration of the Provisional Government of the Republic of Irad:\n1. The emergency decrees of the government in Kobozev of November 1991 are declared void.\n2. The self-government of the clan communities is restored within the former pasture boundaries.\n3. Persons detained for taking part in meetings and for publishing printed matter shall be released within twenty-four hours.\n4. This decree takes effect from the moment it is read out on the radio.\nProvisional President of the Republic of Irad, A. Alimbekov [signature].\n[Stamp:] Coordinating Council of the City of Talas.\n[Pencil, in Iradi:] Radio 20.15, read out. B.",
+            "ru": "ВРЕМЕННОЕ ПРАВИТЕЛЬСТВО РЕСПУБЛИКИ ИРАД\nДЕКРЕТ № 1. г. Талас, 12 марта 1992 г.\nОб отмене чрезвычайных мер.\nНа территории, находящейся под управлением Временного правительства Республики Ирад:\n1. Чрезвычайные указы правительства в г. Кобозеве от ноября 1991 года признать недействительными.\n2. Восстановить самоуправление родовых общин в прежних границах пастбищ.\n3. Лиц, задержанных за участие в собраниях и издание печатных материалов, освободить в течение суток.\n4. Декрет вступает в силу с момента оглашения по радио.\nВременный Президент Республики Ирад А. Алимбеков [подпись].\n[Штамп:] Координационный совет г. Таласа.\n[Карандаш, по-ирадски:] Радио 20.15 — оглашено. Б."
+          }
+        },
+        {
+          "fx": "bread1992", "ref": { "f": 108, "op": 1, "d": 37, "l": "5" },
+          "title": { "en": "Bread coupons of the supply commission", "ir": "Azık-tülük komissiyasının nan talondoru", "ru": "Хлебные талоны продовольственной комиссии" },
+          "date": { "en": "May 1992", "ru": "Май 1992 года" },
+          "caption": {
+            "en": "Among its first decrees the Provisional Government introduced bread rationing in Talas under its own supply commission. This card for the first half of May, during the siege, carries the workers' norm of 400 g a day; five coupons have been cut out. It was kept with the commission's monthly returns.",
+            "ru": "В числе первых декретов Временное правительство ввело в Таласе хлебные карточки, выдававшиеся его продовольственной комиссией. Эта карточка на первую половину мая, во время осады, — рабочая норма, 400 г в день; пять талонов вырезаны. Карточка хранилась при месячных отчётах комиссии."
+          },
+          "text": {
+            "en": "SUPPLY COMMISSION OF THE PROVISIONAL GOVERNMENT OF THE REPUBLIC OF IRAD · Talas · May 1992\nCoupons: BREAD · NAN · 400 g · 1–16 May · Talas\nCard No. 04117 · workers' norm\n[Stamp:] Supply commission · Talas · 1992",
+            "ru": "ПРОДОВОЛЬСТВЕННАЯ КОМИССИЯ ВРЕМЕННОГО ПРАВИТЕЛЬСТВА РЕСПУБЛИКИ ИРАД · Талас · Май 1992\nТалоны: ХЛЕБ · НАН · 400 г · 1–16 мая · Талас\nКарточка № 04117 · рабочая норма\n[Штамп:] Продкомиссия · Талас · 1992"
+          }
+        },
+        {
+          "fx": "notebook1992", "ref": { "f": 108, "op": 3, "d": 5, "l": "46" },
+          "title": { "en": "A page from the Provisional President's notebook", "ir": "Ubaktıluu Prezidenttin dapterinen bir bet", "ru": "Страница из рабочей тетради Временного Президента" },
+          "date": { "en": "27 May 1992", "ru": "27 мая 1992 года" },
+          "caption": {
+            "en": "Inventory 3 of Fond 108 holds Amanbek Alimbekov's papers from 1992: working notebooks, drafts of radio appeals and his correspondence with the commissioners. By late May the city's water supply had been cut. This page lists the day's business: queues at the Sarchashma springs in the Old City, guarded by the student militia; water carts; the bread norm cut to 300 g; kerosene and glass for the hospital (Nurlanbek Ermatov was the reconstruction commissioner); the evening radio appeal, \"shorter, no figures\"; and a reminder to seal the archive of the city party committee. The full inventory may be consulted in the reading room.",
+            "ru": "В описи 3 фонда 108 хранятся бумаги Аманбека Алимбекова за 1992 год: рабочие тетради, черновики радиообращений, переписка с комиссарами. К концу мая водоснабжение города было прервано. На этой странице — дела дня: очередь у источников Сарчашма в Старом городе под охраной студенческой дружины, водовозы, снижение нормы хлеба до 300 г, керосин и стекло для больницы (комиссаром по восстановлению был Нурланбек Ерматов), вечернее радиообращение — «короче, без цифр» — и напоминание опечатать архив горкома. С полной описью можно ознакомиться в читальном зале."
+          },
+          "text": {
+            "en": "27 May\n— water: Sarchashma, queue from 5 a.m., guard: student militia. Water carts: 2 barrels per block (Old City).\n— bread: norm 300 g from Monday. Supply commission: lists of children.\n— hospital: kerosene, glass. Ermatov: by Thursday!\n— radio appeal at 20.00: shorter. No figures.\n— School No. 4: for housing?\n— defence council: the passes; convoy on the 31st, who leads?\n[In the margin:] ?\nDon't forget: city committee archive, seal it!",
+            "ru": "27.V\n— вода: Сарчашма — очередь с 5 утра, охрана — студ. дружина. Водовозы: 2 бочки на квартал (Старый город).\n— хлеб: норма 300 г с понедельника. Продкомиссии — списки детей.\n— больница: керосин, стекло. Ерматову — до четверга!\n— обращение по радио в 20.00 — короче. Без цифр.\n— школа № 4 — под жильё?\n— оборонный совет: перевалы, обоз 31-го — кто ведёт?\n[На полях:] ?\nНе забыть: архив горкома — опечатать!"
+          }
+        },
+        {
+          "fx": "ratification1992", "ref": { "f": 108, "op": 1, "d": 19, "l": "112" },
+          "title": { "en": "Minutes of the ratification", "ir": "Ratifikatsiya protokolu", "ru": "Протокол ратификации" },
+          "date": { "en": "2 June 1992", "ru": "2 июня 1992 года" },
+          "caption": {
+            "en": "The Alimbekov-Baker Treaty was signed on 2 June 1992 in the basement of the damaged municipal theatre, and the Provisional Council ratified it unanimously the same day, giving up the independence proclaimed in March in exchange for military protection. Alimbekov later wrote that his main condition had been the statutory independence clause. The note in the margin: \"No electricity. Minutes retyped 3 June.\"",
+            "ru": "Договор Алимбекова–Бейкера был подписан 2 июня 1992 года в подвале повреждённого городского театра, и в тот же день Временный совет единогласно ратифицировал его, отказавшись от провозглашённой в марте независимости в обмен на военную защиту. Позднее Алимбеков писал, что его главным условием было положение о статутной независимости. Помета на полях: «Электричества нет. Протокол перепечатан 3.VI»."
+          },
+          "text": {
+            "en": "MINUTES No. 41 of the meeting of the Provisional Council of the Republic of Irad. 2 June 1992. Talas, municipal theatre (basement).\nChair: the Provisional President of the Republic of Irad, A. Alimbekov.\nPresent: 63 delegates. There is a quorum.\nHEARD: On the ratification of the Treaty between the Republic of Irad and the United States of America, signed on 2 June 1992.\nRESOLVED: To ratify the Treaty.\nVoting: for 63, against none, abstentions none. Adopted unanimously.\nThe meeting closed at 23.10.\nChair [signature]. Secretary [signature].\n[Margin:] No electricity. Minutes retyped 3 June.",
+            "ru": "ПРОТОКОЛ № 41 заседания Временного совета Республики Ирад. 2 июня 1992 года. г. Талас, городской театр (подвальное помещение).\nПредседательствует: Временный Президент Республики Ирад А. Алимбеков.\nПрисутствуют: 63 делегата. Кворум имеется.\nСЛУШАЛИ: О ратификации Договора между Республикой Ирад и Соединёнными Штатами Америки, подписанного 2 июня 1992 года.\nПОСТАНОВИЛИ: Договор ратифицировать.\nГолосовали: за — 63, против — нет, воздержались — нет. Решение принято единогласно.\nЗаседание закрыто в 23 ч. 10 мин.\nПредседатель [подпись]. Секретарь [подпись].\n[На полях:] Электричества нет. Протокол перепечатан 3.VI."
+          }
+        }
+      ]
+    },
+    {
+      "id": "seals", "fonds": [110, 310], "since": "2023-11-01",
+      "title": { "en": "Under the Seal", "ir": "Mör astında", "ru": "Под печатью" },
+      "sub": { "en": "The Seal of the Territory of Irad, 1993–2006, and what came after", "ir": "Irad Aymagının möörü, 1993–2006, jana andan kiyin", "ru": "Печать Территории Ирад, 1993–2006, и то, что было после" },
+      "intro": {
+        "en": "The State Symbols Act of 1993 gave the Territory of Irad its seal: a navy legend ring, \"Seal of the Territory of Irad\" and \"United States · 1992\", around a crimson shield with the white stallion and Polaris, the inverted horseshoe on an ivory chief, two golden horses as supporters on a mount of the Talas Alatau and the motto Be Free · Erkin Bol. It was set on acts of the Territorial Legislature, court records, the Governor's proclamations, territorial identity cards and driving licences until 2006. The impressions shown here come from Fond 110 and from the open documents of Fond 310.",
+        "ru": "Закон о государственных символах 1993 года дал Территории Ирад печать: тёмно-синее кольцо с надписями «Seal of the Territory of Irad» и «United States · 1992» вокруг червлёного щита с белым жеребцом и Полярной звездой, перевёрнутой подковой в слоновой кости главе, двумя золотыми конями-щитодержателями на горе Таласского Алатау и девизом Be Free · Erkin Bol. Её ставили на акты Территориального законодательного собрания, судебные документы, прокламации губернатора, территориальные удостоверения личности и водительские права до 2006 года. Показанные оттиски взяты из фонда 110 и открытых документов фонда 310."
+      },
+      "items": [
+        {
+          "fx": "act1993", "ref": { "f": 110, "op": 2, "d": 88, "l": "61" },
+          "title": { "en": "The Toponymic Heritage Statute, last page", "ir": "Toponimikalık muras jönündö mıyzam, akırkı bet", "ru": "Закон о топонимическом наследии, последний лист" },
+          "date": { "en": "1993 (No. 93-21)", "ru": "1993 год (№ 93-21)" },
+          "caption": {
+            "en": "The Toponymic Heritage Statute confirmed the name Nurzhan for the former Kobozev, announced by Alimbekov in September 1992, and gave the State Archives' Toponymic Section the schedules of restored place names; the Section published its gazetteer of settlements in 1994. The engrossed act carries the signatures of the presiding officers of both chambers of the interim legislature, attested by the Clerk, under the Seal of the Territory in blue ink.",
+            "ru": "Закон о топонимическом наследии утвердил для бывшего Кобозева имя Нуржан, объявленное Алимбековым в сентябре 1992 года, и поручил топонимической секции Государственного архива реестры восстановленных названий; в 1994 году секция издала справочник населённых пунктов. На подлиннике закона — подписи председателей обеих палат временного законодательного собрания, заверенные секретарём, под печатью Территории синей краской."
+          },
+          "text": {
+            "en": "TOPONYMIC HERITAGE STATUTE, No. 93-21, page 6.\nSec. 8. Nurzhan. The city formerly known as Kobozev shall be known as Nurzhan in all acts, maps, signs and records of the Territory.\nSec. 9. Schedules. The State Archives, through its Toponymic Section, shall prepare and keep the schedules of restored names of settlements, rivers, passes and streets, and shall publish a gazetteer of settlements.\nSec. 10. Effective date. This Act shall take effect upon its publication in the Territorial Gazette.\nPassed the Senate [signature], President of the Senate. Passed the House of Representatives [signature], Speaker of the House. Attest [signature], Clerk of the Territorial Legislature. [Seal of the Territory of Irad.]",
+            "ru": "ЗАКОН О ТОПОНИМИЧЕСКОМ НАСЛЕДИИ, № 93-21, с. 6 (английский текст).\nРазд. 8. Нуржан. Город, ранее известный как Кобозев, во всех актах, картах, указателях и документах Территории именуется Нуржан.\nРазд. 9. Реестры. Государственный архив через свою топонимическую секцию составляет и ведёт реестры восстановленных названий населённых пунктов, рек, перевалов и улиц и издаёт справочник населённых пунктов.\nРазд. 10. Вступление в силу. Закон вступает в силу с момента опубликования в Территориальном вестнике.\nПринят Сенатом [подпись], Председатель Сената. Принят Палатой представителей [подпись], Спикер Палаты. Заверено [подпись], Секретарь Территориального законодательного собрания. [Печать Территории Ирад.]"
+          }
+        },
+        {
+          "fx": "cert2001", "ref": { "f": 110, "op": 14, "d": 302, "l": "2" },
+          "title": { "en": "A certified copy under the dry seal", "ir": "Kurgak mör menen kubölöndürülgön köchürmö", "ru": "Заверенная копия с сухой печатью" },
+          "date": { "en": "14 May 2001", "ru": "14 мая 2001 года" },
+          "caption": {
+            "en": "Certified copies of territorial acts were issued by the Clerk of the Territorial Legislature with the seal embossed, not inked: once through a red paper wafer and ribbon, once directly on the sheet. Raking light shows the shield, the supporters and the legend ring standing up from the paper.",
+            "ru": "Заверенные копии территориальных актов выдавал секретарь Территориального законодательного собрания с тиснёной, а не красочной печатью: один оттиск — через красную бумажную облатку с лентой, другой — прямо на листе. В косом свете видны щит, щитодержатели и кольцо с надписью, выступающие над бумагой."
+          },
+          "text": {
+            "en": "TERRITORY OF IRAD. OFFICE OF THE CLERK OF THE TERRITORIAL LEGISLATURE.\nCERTIFICATE\nI hereby certify that the annexed is a true and correct copy of the Act as enrolled in the journals of the Territorial Legislature and deposited with the State Archives.\nIn witness whereof I have set my hand and caused the Seal of the Territory of Irad to be affixed at Talas this fourteenth day of May, two thousand and one.\n[Signature], Clerk of the Territorial Legislature. [Seal embossed twice.]",
+            "ru": "ТЕРРИТОРИЯ ИРАД. АППАРАТ СЕКРЕТАРЯ ТЕРРИТОРИАЛЬНОГО ЗАКОНОДАТЕЛЬНОГО СОБРАНИЯ.\nСВИДЕТЕЛЬСТВО (английский текст)\nНастоящим удостоверяю, что прилагаемый текст является верной и точной копией закона, внесённого в журналы Территориального законодательного собрания и переданного на хранение в Государственный архив.\nВ удостоверение чего я подписал настоящее и скрепил его печатью Территории Ирад в Таласе четырнадцатого мая две тысячи первого года.\n[Подпись], Секретарь Территориального законодательного собрания. [Двойной оттиск сухой печати.]"
+          }
+        },
+        {
+          "fx": "cutseal2006", "ref": { "f": 310, "op": 1, "d": 4, "l": "9" },
+          "title": { "en": "The cut seal", "ir": "Kesilgen mör", "ru": "«Срезанная печать»" },
+          "date": { "en": "December 2006", "ru": "Декабрь 2006 года" },
+          "caption": {
+            "en": "The Democratic Republic of Irad, proclaimed on 9 December 2006, adopted no emblem of its own. Its decrees carried the territorial seal with the legend ring ground off the die, known as \"the cut seal\": the shield, the supporters and the motto remain, the words \"Territory\" and \"United States\" are gone. The text of the decree is not shown: only selected documents of Fond 310 are open.",
+            "ru": "Демократическая Республика Ирад, провозглашённая 9 декабря 2006 года, собственного герба не приняла. На её декретах ставили территориальную печать со сточенным с матрицы кольцом надписи — «срезанную печать»: щит, щитодержатели и девиз остались, слов «Территория» и «Соединённые Штаты» нет. Текст декрета не показан: в фонде 310 открыты лишь отдельные документы."
+          },
+          "text": {
+            "en": "... shall take effect on the day of its publication.\nTalas, December 2006.\nPrime Minister of the Democratic Republic of Irad [signature]. [The cut seal.]",
+            "ru": "... вступает в силу со дня опубликования (английский текст).\nТалас, декабрь 2006 года.\nПремьер-министр Демократической Республики Ирад [подпись]. [«Срезанная печать».]"
+          }
+        },
+        {
+          "fx": "successors", "ref": { "f": 0, "op": 0, "d": 0, "l": "", "note": { "en": "Seal register of the State Archives, reference sheet", "ru": "Реестр печатей Государственного архива, эталонный лист" } },
+          "title": { "en": "Before and after: five impressions", "ir": "Cheyin jana kiyin: besh iz", "ru": "До и после: пять оттисков" },
+          "date": { "en": "1937 to the present", "ru": "С 1937 года по настоящее время" },
+          "caption": {
+            "en": "The emblem of the Iradi SSR (1937 constitution, kept by the SRI until its surrender in August 1992); the Seal of the Territory (1993–2006); the cut seal of the DRI (2006–2007); the flag's roundel on a crimson disc, used by the ISEZ from February 2007 and still the seal of the Office of the Governor; and the State Emblem, in force since 1 November 2009, used on passports, acts of the Mejlis, court, notarial and ministry seals, and on the Archives' own certificates.",
+            "ru": "Герб Ирадской ССР (по конституции 1937 года; сохранялся СРИ до её капитуляции в августе 1992 года); печать Территории (1993–2006); «срезанная печать» ДРИ (2006–2007); круглая эмблема флага на червлёном диске, которой ОЭЗИ пользовалась с февраля 2007 года и которая осталась печатью Аппарата губернатора; Государственный герб, действующий с 1 ноября 2009 года: на паспортах, актах Меджлиса, печатях судов, нотариусов и министерств и на справках самого Архива."
+          },
+          "text": null
+        }
+      ]
+    }
+  ]
+}

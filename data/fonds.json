@@ -1,0 +1,256 @@
+{
+  "updated": "2026-10-22",
+  "periods": ["early", "soviet", "since1992"],
+  "fonds": [
+    {
+      "n": 3, "period": "early", "dates": "1727–1876", "opisi": 2, "units": 214, "access": "open", "exhibition": "kokand",
+      "title": { "en": "Kokand charters and church records of Iyık Janyl", "ir": "Kokand yarlıktarı jana Iyık Janıl chirköösünün dokumentteri", "ru": "Кокандские грамоты и церковные документы Ийык-Джаныла" },
+      "desc": {
+        "en": "Charters (firmans) of the khans of Kokand and their officials concerning the Christian clans and the Church of St. Janyl, including 19th-century Persian copies of the charter of 1727 known as the Treaty of Talas; tribute registers of the Kokand fort at Talas; the inventory of church property taken in 1876.",
+        "ru": "Грамоты (фирманы) кокандских ханов и их наместников, касающиеся христианских родов и церкви Св. Джаныл, в том числе персидские списки XIX века с грамоты 1727 года, известной как Таласский договор; податные книги кокандской крепости в Таласе; опись церковного имущества 1876 года."
+      }
+    },
+    {
+      "n": 21, "period": "early", "dates": "1916–1936", "opisi": 3, "units": 1187, "access": "open", "exhibition": "urkun",
+      "title": { "en": "Records of the Northern Semirechye and Talas districts", "ir": "Tündük Jeti-Suu jana Talas uezdderinin dokumentteri", "ru": "Документы уездов Северного Семиречья и Таласа" },
+      "desc": {
+        "en": "District and volost administration records from the revolt of 1916 to the creation of the districts of the Iradi SSR: lists of households recorded as departed in 1916–17, registers of families who returned, telegrams, land and water reform files of 1921–22. The main documentary source for the revolt of 1916 in the Iradi valleys.",
+        "ru": "Документы уездных и волостных управлений от восстания 1916 года до образования районов Ирадской ССР: списки выбывших хозяйств 1916–1917 годов, ведомости вернувшихся семей, телеграммы, дела земельно-водной реформы 1921–1922 годов. Главный документальный источник о восстании 1916 года в ирадских долинах."
+      }
+    },
+    {
+      "n": 52, "period": "early", "dates": "1900–1914", "opisi": 1, "units": 96, "access": "open",
+      "title": { "en": "Turkestan irrigation surveys of the Talas and Chatkal districts", "ir": "Talas jana Chatkal uezdderinin Türkstan irrigatsiyalık izildöölörü", "ru": "Туркестанские ирригационные изыскания Таласского и Чаткальского районов" },
+      "desc": {
+        "en": "Survey reports, canal plans and water-use registers of the Turkestan irrigation service, among them surveys of the galleries of the Kok-Tash Kariz System.",
+        "ru": "Отчёты изысканий, планы каналов и ведомости водопользования туркестанской ирригационной службы, в том числе обследования галерей кяризной системы Кок-Таш."
+      }
+    },
+    {
+      "n": 77, "period": "soviet", "dates": "1937–1991", "opisi": 2, "units": 642, "access": "open",
+      "title": { "en": "Commissioner for Religious Affairs of the Iradi SSR", "ir": "Iradi SSR din ishteri boyuncha ıygarım ukuktuu", "ru": "Уполномоченный по делам религий по Ирадской ССР" },
+      "desc": {
+        "en": "Files of the republic's Commissioner for Religious Affairs: reports on closed churches and on worship in homes and herding camps, registers of religious communities, correspondence with the all-Union council.",
+        "ru": "Дела уполномоченного по делам религий по республике: донесения о закрытых церквях и о богослужениях в домах и на кочевьях, учёт религиозных общин, переписка с союзным советом."
+      }
+    },
+    {
+      "n": 85, "period": "soviet", "dates": "1925–1991", "opisi": 9, "units": 18420, "access": "open", "exhibition": "june1956",
+      "title": { "en": "Central Committee of the Communist Party of Irad", "ir": "Irad Kommunisttik partiyasının Borborduk Komiteti", "ru": "Центральный комитет Коммунистической партии Ирада" },
+      "desc": {
+        "en": "Protocols of the bureau and plenums of the Central Committee, the papers of the First Secretary's office, and the internal-security reports on the 1956 Talas riots. Closed in the Soviet period; opened to researchers in the 1990s.",
+        "ru": "Протоколы бюро и пленумов ЦК, документы аппарата первого секретаря, спецсообщения органов безопасности о беспорядках в Таласе в 1956 году. В советское время были закрыты; открыты для исследователей в 1990-е годы."
+      }
+    },
+    {
+      "n": 86, "period": "soviet", "dates": "June 1956", "opisi": 1, "units": 38, "access": "open", "exhibition": "june1956",
+      "title": { "en": "Talas City Committee of the Communist Party of Irad: records of June 1956", "ir": "Irad KP Talas shaardık komiteti: 1956-jılkı iyun", "ru": "Таласский горком КП Ирада: документы июня 1956 года" },
+      "desc": {
+        "en": "Minutes of the city committee bureau, information reports and correspondence from the days of the riots and the weeks that followed.",
+        "ru": "Протоколы бюро горкома, информационные сводки и переписка дней беспорядков и последовавших недель."
+      }
+    },
+    {
+      "n": 140, "period": "soviet", "dates": "1938–1985", "opisi": 4, "units": 2310, "access": "open",
+      "title": { "en": "Urban planning and industrialization of Kobozev–Nurzhan", "ir": "Kobozev–Nurzhan: shaar kurulushu jana industriyalashtıruu", "ru": "Градостроительство и индустриализация Кобозева–Нуржана" },
+      "desc": {
+        "en": "General plans, building permits and industrial construction files of the republic's capital, with the records of the Kobozev Tractor Combine.",
+        "ru": "Генеральные планы, разрешения на строительство и дела промышленного строительства столицы республики, с документами Кобозевского тракторного комбината."
+      }
+    },
+    {
+      "n": 175, "period": "soviet", "dates": "1922–1991", "opisi": 3, "units": 1450, "access": "open",
+      "title": { "en": "Ethnographic records and nomadic rituals", "ir": "Etnografiyalık jazuular jana köchmön ırımdar", "ru": "Этнографические материалы и кочевые обряды" },
+      "desc": {
+        "en": "Expedition diaries, questionnaires, photographs and transcriptions of oral tradition, including genealogies (sanjyra) taken down from elders, and the papers of the folklorist Sagyn Jusupbekov.",
+        "ru": "Дневники экспедиций, анкеты, фотографии и записи устной традиции, в том числе родословные (санжыра), записанные со слов старейшин, и личный фонд фольклориста Сагына Жусупбекова."
+      }
+    },
+    {
+      "n": 204, "period": "soviet", "dates": "1949–1993", "opisi": 5, "units": 3906, "access": "open",
+      "title": { "en": "Records of the Iradneft Production Association", "ir": "Iradneft öndürüshtük birikmesinin dokumentteri", "ru": "Документы производственного объединения «Ираднефть»" },
+      "desc": {
+        "en": "Records of the oil industry of the Chu basin from the 1949 strike to 1993, including the privatization file of 1993.",
+        "ru": "Документы нефтяной промышленности Чуйского бассейна от открытия 1949 года до 1993 года, включая дело о приватизации 1993 года."
+      }
+    },
+    {
+      "n": 207, "period": "soviet", "dates": "1937–1956", "opisi": 2, "units": 870, "access": "rule30",
+      "title": { "en": "Resettlement Administration of the Iradi SSR", "ir": "Iradi SSR Kayra jaylashtıruu bashkarmalıgı", "ru": "Переселенческое управление Ирадской ССР" },
+      "desc": {
+        "en": "Records of the administration that received and settled the deported Koryo-saram families in the Chu basin from 1937, with settlement registers and correspondence.",
+        "ru": "Документы управления, принимавшего и расселявшего депортированные семьи корё-сарам в Чуйском бассейне с 1937 года: книги учёта и переписка."
+      }
+    },
+    {
+      "n": 215, "period": "soviet", "dates": "1946–1968", "opisi": 2, "units": 512, "access": "open",
+      "title": { "en": "Talas–Chatkal Regime Zone", "ir": "Talas–Chatkal rejimdik zonası", "ru": "Таласо-Чаткальская режимная зона" },
+      "desc": {
+        "en": "Records of the regime zone on the old stock boundary: checkpoint registers at the valley mouths, entry passes (propusk), herders' seasonal passes and boundary maps.",
+        "ru": "Документы режимной зоны по старой скотопрогонной границе: журналы контрольно-пропускных пунктов в устьях долин, пропуска, сезонные пропуска чабанов, картографические материалы."
+      }
+    },
+    {
+      "n": 218, "period": "soviet", "dates": "1922–2020", "opisi": 6, "units": 2844, "access": "open",
+      "title": { "en": "Registers of equine studbooks and traditional guilds", "ir": "Jılkı asıl kitepteri jana salttuu usta birikmelerinin reestri", "ru": "Племенные книги конных заводов и реестры ремесленных цехов" },
+      "desc": {
+        "en": "Studbook and breeding registers of the horse-breeding trusts and the traditional guilds, from the founding Akyel and Chongtor stallions of the 1920s, with an appendix of pre-revolutionary remount registers. The most complete genealogies in the archive.",
+        "ru": "Племенные книги и реестры конных трестов и традиционных цехов, начиная с жеребцов-основателей пород акыел и чонгтор 1920-х годов, с приложением дореволюционных ремонтных книг. Самые полные родословные в архиве."
+      }
+    },
+    {
+      "n": 233, "period": "soviet", "dates": "1959–1992", "opisi": 3, "units": 1630, "access": "open",
+      "title": { "en": "State Committee of the Iradi SSR for Television and Radio Broadcasting", "ir": "Iradi SSR Teleradio boyuncha mamlekettik komiteti", "ru": "Государственный комитет Ирадской ССР по телевидению и радиовещанию" },
+      "desc": {
+        "en": "Programme schedules, scripts, censorship files and staff records of republican radio and television.",
+        "ru": "Программы передач, сценарии, цензурные дела и кадровые документы республиканского радио и телевидения."
+      }
+    },
+    {
+      "n": 236, "period": "soviet", "dates": "1930–1991", "opisi": 11, "units": 9715, "access": "rule30",
+      "title": { "en": "Collective farm and livestock brigade records", "ir": "Kolkhoz jana mal charbachılık brigadalarının dokumentteri", "ru": "Документы колхозов и животноводческих бригад" },
+      "desc": {
+        "en": "Household books, labour-day registers, brigade lists and livestock counts of the collective and state farms. The source for archival certificates of work record for pensions.",
+        "ru": "Похозяйственные книги, книги учёта трудодней, списки бригад и учёт скота колхозов и совхозов. Источник архивных справок о трудовом стаже для пенсий."
+      }
+    },
+    {
+      "n": 288, "period": "soviet", "dates": "1941–1991", "opisi": 4, "units": 6120, "access": "rule30",
+      "title": { "en": "Soviet military commissariat registers, Talas oblast", "ir": "Talas oblastının askeriy komissariatının reestrleri", "ru": "Книги учёта Таласского областного военного комиссариата" },
+      "desc": {
+        "en": "Call-up and service registers, notices of death and missing in action, and records of the wartime mobilization of horses.",
+        "ru": "Книги призыва и учёта, извещения о погибших и пропавших без вести, документы военной мобилизации лошадей."
+      }
+    },
+    {
+      "n": 402, "period": "soviet", "dates": "1932–1991", "opisi": 3, "units": 1204, "access": "open",
+      "title": { "en": "Republican Horse-Breeding Trust of the Iradi SSR", "ir": "Iradi SSR Respublikalık jılkı charbachılık tresti", "ru": "Республиканский трест коневодства Ирадской ССР" },
+      "desc": {
+        "en": "Administrative records of the state stud farms and the horse-breeding trust: plans, reports, inspection files and sale contracts.",
+        "ru": "Делопроизводство государственных конных заводов и треста: планы, отчёты, акты проверок и договоры продажи."
+      }
+    },
+    {
+      "n": 412, "period": "soviet", "dates": "1954–1975", "opisi": 1, "units": 188, "access": "open",
+      "title": { "en": "Film production catalogues of the republic", "ir": "Respublikanın kino öndürüsh kataloktoru", "ru": "Каталоги кинопроизводства республики" },
+      "desc": {
+        "en": "Catalogues and production registers of feature, documentary and newsreel films made in the republic.",
+        "ru": "Каталоги и производственные книги художественных, документальных и хроникальных фильмов республики."
+      }
+    },
+    {
+      "n": 415, "period": "soviet", "dates": "1961–1991", "opisi": 2, "units": 466, "access": "open",
+      "title": { "en": "Talasfilm artistic council", "ir": "Talasfilm körköm keñeshi", "ru": "Художественный совет «Таласфильма»" },
+      "desc": {
+        "en": "Minutes of the studio's artistic council: script discussions, acceptance of finished films and correspondence with Goskino.",
+        "ru": "Стенограммы художественного совета студии: обсуждения сценариев, приёмка готовых фильмов, переписка с Госкино."
+      }
+    },
+    {
+      "n": 431, "period": "soviet", "dates": "1968–1991", "opisi": 2, "units": 734, "access": "open",
+      "title": { "en": "Veterinary cordon stations", "ir": "Veterinardık kordon stantsiyaları", "ru": "Ветеринарные кордонные станции" },
+      "desc": {
+        "en": "Logbooks and reports of the veterinary cordon stations against foot-and-mouth disease and brucellosis on the former regime-zone line.",
+        "ru": "Журналы и отчёты ветеринарных кордонных станций по борьбе с ящуром и бруцеллёзом на линии бывшей режимной зоны."
+      }
+    },
+    {
+      "n": 12, "period": "since1992", "dates": "1993–1997", "opisi": 1, "units": 152, "access": "open",
+      "title": { "en": "Republican Commission on National History", "ir": "Uluttuk tarıh boyuncha Respublikalık komissiya", "ru": "Республиканская комиссия по национальной истории" },
+      "desc": {
+        "en": "Minutes, expert opinions and correspondence of the commission that reviewed the history curriculum and the rehabilitation of national figures after 1992.",
+        "ru": "Протоколы, экспертные заключения и переписка комиссии, пересматривавшей программы по истории и реабилитацию национальных деятелей после 1992 года."
+      }
+    },
+    {
+      "n": 108, "period": "since1992", "dates": "1992", "opisi": 3, "units": 931, "access": "open", "exhibition": "decrees1992",
+      "title": { "en": "Revolution of 1992 and the Provisional Government", "ir": "1992-jılkı revolyutsiya jana Ubaktıluu Ökmöt", "ru": "Революция 1992 года и Временное правительство" },
+      "desc": {
+        "en": "Minutes of the Provisional Council and the council of commissioners, the emergency decrees, ceasefire records, the ratification minutes of the Alimbekov-Baker Treaty, and the papers of Amanbek Alimbekov from 1992 (inventory 3). Open in full since 1993.",
+        "ru": "Протоколы Временного совета и совета комиссаров, чрезвычайные декреты, документы о перемирии, протокол ратификации договора Алимбекова–Бейкера и документы Аманбека Алимбекова за 1992 год (опись 3). Полностью открыт с 1993 года."
+      }
+    },
+    {
+      "n": 110, "period": "since1992", "dates": "1992–2006", "opisi": 15, "units": 7280, "access": "open", "exhibition": "seals",
+      "title": { "en": "Territorial Legislative Journals and Enacted Statutes", "ir": "Aymaktık legislaturanın jurnaldarı jana kabıl alıngan mıyzamdar", "ru": "Журналы Территориального законодательного собрания и принятые законы" },
+      "desc": {
+        "en": "Journals of the interim and elected territorial legislatures and the engrossed acts under the Seal of the Territory, including the Toponymic Heritage Statute of 1993 and the State Symbols Act of 1993.",
+        "ru": "Журналы временного и выборного территориальных законодательных собраний и подлинники законов с печатью Территории, в том числе Закон о топонимическом наследии 1993 года и Закон о государственных символах 1993 года."
+      }
+    },
+    {
+      "n": 111, "period": "since1992", "dates": "1992–2023", "opisi": 8, "units": 4415, "access": "open",
+      "title": { "en": "Supreme Court Reports and Organic Jurisprudence", "ir": "Jogorku Sottun chechimderi jana bayandamaları", "ru": "Отчёты и практика Верховного суда" },
+      "desc": {
+        "en": "Published reports and judgments of the Supreme Court of Irad, among them the Statutory Independence Ruling of 7 December 2006.",
+        "ru": "Опубликованные отчёты и решения Верховного суда Ирада, в том числе решение о статутной независимости от 7 декабря 2006 года."
+      }
+    },
+    {
+      "n": 131, "period": "since1992", "dates": "1992–2006", "opisi": 6, "units": 2960, "access": "open",
+      "title": { "en": "Military records", "ir": "Askeriy dokumentter", "ru": "Военные документы" },
+      "desc": {
+        "en": "Records of the First Iradi Civil War, military concessions and base allocations of the territorial period, and the defense section of the Office of the US High Commissioner (1992–1994).",
+        "ru": "Документы Первой ирадской гражданской войны, военных концессий и размещения баз территориального периода, а также оборонного отдела Управления Верховного комиссара США (1992–1994)."
+      }
+    },
+    {
+      "n": 160, "period": "since1992", "dates": "1948–2023", "opisi": 7, "units": 3388, "access": "partial",
+      "title": { "en": "Hydrological surveys and transboundary water protocols", "ir": "Gidrologiyalık izildöölör jana chek ara suu protokoldoru", "ru": "Гидрологические изыскания и трансграничные водные протоколы" },
+      "desc": {
+        "en": "River gauge records, glacier and reservoir surveys, and the protocols of the water commissions. Survey records are open; protocols after 2007 are subject to classification review.",
+        "ru": "Данные гидропостов, обследования ледников и водохранилищ, протоколы водных комиссий. Изыскания открыты; протоколы после 2007 года находятся на рассмотрении по вопросу о засекречивании."
+      }
+    },
+    {
+      "n": 310, "period": "since1992", "dates": "2006–2007", "opisi": 4, "units": 611, "access": "partial", "exhibition": "seals",
+      "title": { "en": "Cabinet of the Democratic Republic of Irad", "ir": "Irad Demokratiyalık Respublikasının ministrler kabineti", "ru": "Кабинет министров Демократической Республики Ирад" },
+      "desc": {
+        "en": "Decrees and minutes of the DRI cabinet, December 2006 – June 2007. Selected documents of inventory 1 are open; inventories 2–4, including the files on the auctions and privatizations of January–February 2007, are subject to classification review.",
+        "ru": "Декреты и протоколы кабинета ДРИ, декабрь 2006 – июнь 2007 года. Отдельные документы описи 1 открыты; описи 2–4, включая дела об аукционах и приватизации января–февраля 2007 года, находятся на рассмотрении по вопросу о засекречивании."
+      }
+    },
+    {
+      "n": 312, "period": "since1992", "dates": "2007", "opisi": 3, "units": 744, "access": "review",
+      "title": { "en": "Second Civil War operational records and armistice protocols", "ir": "Ekinchi jarandık sogushtun operativdik dokumentteri jana ok tıyuu protokoldoru", "ru": "Оперативные документы Второй гражданской войны и протоколы перемирия" },
+      "desc": {
+        "en": "Operational records of 2007 and the protocols of the Bishkek Ceasefire. Subject to classification review.",
+        "ru": "Оперативные документы 2007 года и протоколы Бишкекского перемирия. Находятся на рассмотрении по вопросу о засекречивании."
+      }
+    },
+    {
+      "n": 501, "period": "since1992", "dates": "2007–2023", "opisi": 2, "units": 1290, "access": "partial",
+      "title": { "en": "Executive Directives of the Irad Special Economic Zone", "ir": "Irad Atayın Ekonomikalık Zonasının atkaruu direktivaları", "ru": "Исполнительные директивы Особой экономической зоны Ирад" },
+      "desc": {
+        "en": "Signed originals of the executive directives, numbered YYYY/NN. Published directives may be consulted; working files are subject to classification review.",
+        "ru": "Подписанные подлинники исполнительных директив с номерами вида ГГГГ/НН. Опубликованные директивы выдаются читателям; рабочие дела находятся на рассмотрении по вопросу о засекречивании."
+      }
+    },
+    {
+      "n": 519, "period": "since1992", "dates": "1994–2022", "opisi": 3, "units": 880, "access": "partial",
+      "title": { "en": "Telecommunications concessions and network licenses", "ir": "Telekommunikatsiya kontsessiyaları jana tarmak litsenziyaları", "ru": "Телекоммуникационные концессии и лицензии на сети" },
+      "desc": {
+        "en": "Concession agreements and licences from the Talas Air Base defense telecom contract onwards. Files to 2006 are open; later files are subject to classification review.",
+        "ru": "Концессионные соглашения и лицензии начиная с оборонного телекоммуникационного контракта авиабазы Талас. Дела до 2006 года открыты; более поздние находятся на рассмотрении по вопросу о засекречивании."
+      }
+    }
+  ],
+  "collections": [
+    {
+      "id": "sound", "dates": "1928–1989",
+      "title": { "en": "Sound collection", "ir": "Ün jazuu kollektsiyası", "ru": "Фонозаписи" },
+      "desc": {
+        "en": "Digitized in 2019: the field recordings (1962–1989) of the ethnomusicologist Aigul Choro kyzy and copies of the wax cylinders of the 1928 Sadovnikov expedition, including the song \"Sary Kün, Ejen Kyz\". Listening copies in the reading room only.",
+        "ru": "Оцифрованы в 2019 году: полевые записи (1962–1989) этномузыковеда Айгуль Чоро кызы и копии восковых валиков экспедиции Садовникова 1928 года, в том числе песня «Сары Күн, Эжен Кыз». Прослушивание только в читальном зале."
+      }
+    },
+    {
+      "id": "ld", "dates": "1995–",
+      "title": { "en": "Legal deposit collection", "ir": "Mildettüü nuska kollektsiyası", "ru": "Обязательный экземпляр" },
+      "desc": {
+        "en": "One copy of every book, newspaper and journal published in Irad since the Legal Deposit Act of 1995, each under its LD number. Two further copies go to the National Library of Irad next door.",
+        "ru": "По одному экземпляру каждой книги, газеты и журнала, изданных в Ираде после Закона об обязательном экземпляре 1995 года, под номером LD. Ещё два экземпляра поступают в соседнюю Национальную библиотеку Ирада."
+      }
+    }
+  ]
+}

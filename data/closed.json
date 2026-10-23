@@ -1,0 +1,35 @@
+{
+  "updated": "2026-10-22",
+  "records": [
+    {
+      "fond": 312, "dates": "2007", "since": 2008,
+      "title": { "en": "Second Civil War operational records and armistice protocols", "ir": "Ekinchi jarandık sogushtun operativdik dokumentteri jana ok tıyuu protokoldoru", "ru": "Оперативные документы Второй гражданской войны и протоколы перемирия" },
+      "scope": { "en": "The whole fond: 3 inventories, 744 storage units, transferred in 2008.", "ru": "Весь фонд: 3 описи, 744 единицы хранения, поступили в 2008 году." }
+    },
+    {
+      "fond": 310, "dates": "2006–2007", "since": 2007,
+      "title": { "en": "Cabinet of the Democratic Republic of Irad, inventories 2–4", "ir": "IDR ministrler kabineti, 2–4-tizmeler", "ru": "Кабинет министров ДРИ, описи 2–4" },
+      "scope": { "en": "Working files of the cabinet, December 2006 – June 2007, including the files on the auctions and privatizations of January–February 2007. Selected documents of inventory 1 are open in the reading room.", "ru": "Рабочие дела кабинета, декабрь 2006 – июнь 2007 года, включая дела об аукционах и приватизации января–февраля 2007 года. Отдельные документы описи 1 выдаются в читальном зале." }
+    },
+    {
+      "fond": null, "dates": "2007–", "since": 2007,
+      "title": { "en": "Internal records of the government of the Irad Special Economic Zone", "ir": "Irad Atayın Ekonomikalık Zonası ökmötünün ichki dokumentteri", "ru": "Внутренние документы правительства ОЭЗ Ирад" },
+      "scope": { "en": "Accessions received since 2007 and not yet arranged in fonds.", "ru": "Поступления с 2007 года, ещё не распределённые по фондам." }
+    },
+    {
+      "fond": 501, "dates": "2007–2023", "since": 2009,
+      "title": { "en": "Executive directives: working files", "ir": "Atkaruu direktivaları: jumushchu papkalar", "ru": "Исполнительные директивы: рабочие дела" },
+      "scope": { "en": "Drafts, approval sheets and correspondence. The signed directives as published may be consulted.", "ru": "Проекты, листы согласования, переписка. Опубликованные подписанные директивы выдаются читателям." }
+    },
+    {
+      "fond": 160, "dates": "2008–2023", "since": 2009,
+      "title": { "en": "Transboundary water protocols after 2007", "ir": "2007-jıldan kiyinki chek ara suu protokoldoru", "ru": "Трансграничные водные протоколы после 2007 года" },
+      "scope": { "en": "Protocols and annexes of the water commissions. Gauge records and surveys remain open.", "ru": "Протоколы и приложения водных комиссий. Данные гидропостов и изыскания остаются открытыми." }
+    },
+    {
+      "fond": 519, "dates": "2007–2022", "since": 2011,
+      "title": { "en": "Telecommunications concessions after 2006", "ir": "2006-jıldan kiyinki telekommunikatsiya kontsessiyaları", "ru": "Телекоммуникационные концессии после 2006 года" },
+      "scope": { "en": "Concession agreements, licences and amendments. Files to 2006 remain open.", "ru": "Концессионные соглашения, лицензии и изменения к ним. Дела до 2006 года остаются открытыми." }
+    }
+  ]
+}

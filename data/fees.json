@@ -1,0 +1,39 @@
+{
+  "updated": "2026-10-22",
+  "certification": 12,
+  "services": [
+    {
+      "id": "photocopy", "som": 1.5, "perSheet": true, "needsRef": true,
+      "label": { "en": "Photocopy, A4 (documents after 1900)", "ir": "Fotokochürmö, A4 (1900-jıldan kiyinki dokumentter)", "ru": "Ксерокопия, А4 (документы после 1900 года)" },
+      "unit": { "en": "per sheet", "ir": "bir barak", "ru": "за лист" }
+    },
+    {
+      "id": "microfilm", "som": 3, "perSheet": true, "needsRef": true,
+      "label": { "en": "Print from microfilm", "ir": "Mikrofilmden basma", "ru": "Распечатка с микрофильма" },
+      "unit": { "en": "per frame", "ir": "bir kadr", "ru": "за кадр" },
+      "note": { "en": "Fonds 85 and 86: frequently used files are issued on microfilm only.", "ru": "Фонды 85 и 86: часто запрашиваемые дела выдаются только на микрофильме." }
+    },
+    {
+      "id": "photo", "som": 9, "perSheet": true, "needsRef": true,
+      "label": { "en": "Photograph by the Archives' photographer (documents before 1900, maps, seals)", "ir": "Arkhivdin fotografı tartkan süröt (1900-jılga cheyinki dokumentter, kartalar, mörlör)", "ru": "Фотосъёмка фотографом архива (документы до 1900 года, карты, печати)" },
+      "unit": { "en": "per frame", "ir": "bir kadr", "ru": "за кадр" }
+    },
+    {
+      "id": "pension", "som": 20, "perSheet": false, "needsRef": false,
+      "label": { "en": "Archival certificate of work record or wages, for pensions (collective and state farms, Fond 236)", "ir": "Pensiya üchün emgek stajı je ish akı boyuncha arkhivdik maalımkat (kolkhoz-sovkhozdor, 236-fond)", "ru": "Архивная справка о стаже или заработке для пенсии (колхозы и совхозы, фонд 236)" },
+      "unit": { "en": "per certificate", "ir": "bir maalımkat", "ru": "за справку" },
+      "note": { "en": "Free of charge for pensioners and for applications made through a district social protection office.", "ru": "Бесплатно для пенсионеров и по запросам районных отделов социальной защиты." }
+    },
+    {
+      "id": "extract", "som": 15, "perSheet": false, "needsRef": true,
+      "label": { "en": "Archival extract from a decision, minutes or register", "ir": "Chechimden, protokoldon je reestrden arkhivdik kochürmö", "ru": "Архивная выписка из решения, протокола или реестра" },
+      "unit": { "en": "per extract", "ir": "bir kochürmö", "ru": "за выписку" }
+    },
+    {
+      "id": "scan", "som": 0, "perSheet": true, "needsRef": true,
+      "label": { "en": "Digital scan sent by e-mail", "ir": "Elektronduk pochta menen skan", "ru": "Цифровая копия по электронной почте" },
+      "unit": { "en": "not yet available", "ir": "azırınca jok", "ru": "пока не предоставляется" },
+      "note": { "en": "Scans are sent on CD by post, at the photocopy rate, until the e-mail service begins.", "ru": "До начала работы службы цифровые копии высылаются по почте на компакт-диске по цене ксерокопии." }
+    }
+  ]
+}
