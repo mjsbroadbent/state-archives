@@ -92,7 +92,7 @@
       bottom.innerHTML =
         '<footer class="foot"><div class="wrap"><div class="cols">' +
         '<div><div class="femb"><img src="/assets/state-emblem-160.png" alt="" width="46" height="46"><strong>' + esc(t("mastN")) + "</strong></div>" +
-        '<address style="font-style:normal">' + t("footAddr") + "</address></div>" +
+        '<address style="font-style:normal">' + t("footAddr") + "</address>" + '<a class="tulpar-ch" href="https://tulparapp.com/app/#sub=archives" rel="noopener"><img src="/assets/tulpar.svg" alt="" width="22" height="22"><span>' + esc(t("footTulpar")) + "<small>@archives</small></span></a></div>" +
         "<div><h4>" + esc(t("footHours")) + "</h4>" + t("footHoursBody") + "</div>" +
         "<div><h4>" + esc(t("footArch")) + "</h4><ul>" + ["fonds", "reading", "copies", "genealogy", "exhibitions", "closed", "about"].map(function (k) { return '<li><a href="' + navHref(k) + '">' + esc(t("nav_" + k)) + "</a></li>"; }).join("") + "</ul></div>" +
         "<div><h4>" + esc(t("footGov")) + '</h4><ul><li><a href="https://iradgov.org/">' + esc(t("footGovPortal")) + '</a></li><li><a href="https://e-irad.org/">' + esc(t("footEirad")) + '</a></li><li><a href="/about.html#ld">' + esc(t("footLD")) + '</a></li><li><a href="/about.html#topo">' + esc(t("footTopo")) + "</a></li></ul></div>" +
